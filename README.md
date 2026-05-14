@@ -6,7 +6,10 @@
 - **테이블 파인딩 프로그램 (Table Finding Program)**: 기계공학 문제 풀이 시 두꺼운 전공 서적을 뒤지지 않고도 필요한 재료 물성치(ex: SAE 2340 steel)를 빠르게 검색할 수 있는 파이썬(Python) CLI 프로그램 개발 
 
 ### 🌱 I’m currently learning & using ...
-- **Languages & Tools**: Python, MATLAB
+- **Languages & Tools**: <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white"/>
+</p>
 - AI로봇 융합전공(AI Robot Fusion) 관련 지식 및 소프트웨어 개발 역량 강화
 
 ### 🕹️ Projects ...
