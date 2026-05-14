@@ -25,5 +25,3 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white"/>
 </p>
 
-### ⚡ Fun fact ...
-- 전공 과제를 하다가 테이블 찾는 시간이 너무 아까워서 직접 검색 프로그램을 만들고 있습니다! ⚙️
