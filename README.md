@@ -19,8 +19,6 @@
 <!-- 아래 배지들의 아이콘과 색상은 자유롭게 커스텀할 수 있습니다 -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white"/>
 </p>
 
