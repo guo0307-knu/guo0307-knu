@@ -6,11 +6,11 @@
 - **테이블 파인딩 프로그램 (Table Finding Program)**: 기계공학 문제 풀이 시 두꺼운 전공 서적을 뒤지지 않고도 필요한 재료 물성치(ex: SAE 2340 steel)를 빠르게 검색할 수 있는 파이썬(Python) CLI 프로그램 개발 
 
 ### 🌱 I’m currently learning & using ...
-- **Languages & Tools**: Python, C# (Unity), MATLAB
+- **Languages & Tools**: Python, MATLAB
 - AI로봇 융합전공(AI Robot Fusion) 관련 지식 및 소프트웨어 개발 역량 강화
 
 ### 🕹️ Projects ...
-- **물성치 프로그램 개발**: python을 활용해 물성치를 찾는 프로글을 개발
+- **물성치 프로그램 개발**: python을 활용해 물성치를 찾는 프로그램을 개발
 
 ### 📫 How to reach me ...
 - **Email**: guo0307@naver.com
